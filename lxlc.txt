@@ -31,7 +31,7 @@ Name.Parent = Frame
 Name.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
 Name.Size = UDim2.new(0, 378, 0, 25)
 Name.Font = Enum.Font.GothamBold
-Name.Text = "1x1x1x1 Gui"
+Name.Text = "lxlc Gui"
 Name.TextColor3 = Color3.fromRGB(0, 0, 0)
 Name.TextScaled = true
 Name.TextSize = 14.000
@@ -49,13 +49,13 @@ Credits.TextScaled = true
 Credits.TextSize = 14.000
 Credits.TextWrapped = true
 
-e1x1x1x1Message.Name = "e1x1x1x1Message"
+e1x1x1x1Message.Name = "elxlcMessage"
 e1x1x1x1Message.Parent = Frame
 e1x1x1x1Message.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
 e1x1x1x1Message.Position = UDim2.new(0.0714285746, 0, 0.216000006, 0)
 e1x1x1x1Message.Size = UDim2.new(0, 79, 0, 31)
 e1x1x1x1Message.Font = Enum.Font.GothamBold
-e1x1x1x1Message.Text = "1x1x1x1 Message"
+e1x1x1x1Message.Text = "lxlc Message"
 e1x1x1x1Message.TextColor3 = Color3.fromRGB(0, 0, 0)
 e1x1x1x1Message.TextScaled = true
 e1x1x1x1Message.TextSize = 14.000
@@ -65,48 +65,48 @@ e1x1x1x1Message.MouseButton1Down:connect(function()
 		wait(12)--set this to how much time between messages
 		msg = Instance.new ("Hint")
 		msg.Parent = game.Workspace
-		msg.Text = "1x1x1x1: MUHAWHAWHAW! NOOBS! I HAVE RETURNED FOR MY REVENGE!"
+		msg.Text = "lxlc: MUHAWHAWHAW! NOOBS! I HAVE RETURNED FOR MY REVENGE!"
 		wait(6)
 		msg:remove()
 		wait(3)
 		msg = Instance.new("Message")
 		msg.Parent = game.Workspace
-		msg.Text = "1x1x1x1: NOW YOU WILL ALL PARISH IN MY FIRE OF DOOM!"
+		msg.Text = "lxlc: NOW YOU WILL ALL PARISH IN MY FIRE OF DOOM!"
 		wait(6)
 		msg:remove()
 		wait(3)
 		msg = Instance.new("Message")
 		msg.Parent = game.Workspace
-		msg.Text = "1x1x1x1: I WILL DESTROY YOU ALL! YOU ARE WORTHLESS!"
+		msg.Text = "lxlc: I WILL DESTROY YOU ALL! YOU ARE WORTHLESS!"
 		wait(6)
 		msg:remove()
 		wait(3)
 		msg = Instance.new("Message")
 		msg.Parent = game.Workspace
-		msg.Text = "1x1x1x1: YOU WILL NOT LIVE THROUGH MY DEADLY ATTACKS!"
+		msg.Text = "lxlc: YOU WILL NOT LIVE THROUGH MY DEADLY ATTACKS!"
 		wait(6)
 		msg:remove()
 		wait(3)
 		msg = Instance.new("Message")
 		msg.Parent = game.Workspace
-		msg.Text = "1x1x1x1: I MIGHT AS WELL CLONE YOU INTO BOTS!"
+		msg.Text = "lxlc: I MIGHT AS WELL CLONE YOU INTO BOTS!"
 		wait(6)
 		msg:remove()
 		wait(3)
 		msg = Instance.new("Message")
 		msg.Parent = game.Workspace
-		msg.Text = "1x1x1x1: AND THEN THOSE BOTS WILL DESTROY ROBLOX! HAHAHAHAHA!"
+		msg.Text = "lxlc: AND THEN THOSE BOTS WILL DESTROY ROBLOX! HAHAHAHAHA!"
 		wait(6)
 		msg:remove()
 		wait(3)
 		msg = Instance.new("Message")
 		msg.Parent = game.Workspace
-		msg.Text = "1x1x1x1: YOU CAN'T STOP ME! THERES NOTHING YOU CAN DO!"
+		msg.Text = "lxlc: YOU CAN'T STOP ME! THERES NOTHING YOU CAN DO!"
 		wait(6)
 		msg:remove()
 	end
 end)
-e1x1x1x1Music.Name = "e1x1x1x1Music"
+e1x1x1x1Music.Name = "tko518Music"
 e1x1x1x1Music.Parent = Frame
 e1x1x1x1Music.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
 e1x1x1x1Music.Position = UDim2.new(0.0714285746, 0, 0.436000019, 0)
@@ -135,19 +135,19 @@ e1x1x1x1Music.MouseButton1Down:connect(function()
 
 	s:play()
 end)
-e1x1x1x1Laugh.Name = "e1x1x1x1Laugh"
+e1x1x1x1Laugh.Name = "lxlcLaugh"
 e1x1x1x1Laugh.Parent = Frame
 e1x1x1x1Laugh.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
 e1x1x1x1Laugh.Position = UDim2.new(0.0714285746, 0, 0.648000002, 0)
 e1x1x1x1Laugh.Size = UDim2.new(0, 79, 0, 34)
 e1x1x1x1Laugh.Font = Enum.Font.GothamBold
-e1x1x1x1Laugh.Text = "1x1x1x1 Laugh"
+e1x1x1x1Laugh.Text = "lxlc Laugh"
 e1x1x1x1Laugh.TextColor3 = Color3.fromRGB(0, 0, 0)
 e1x1x1x1Laugh.TextScaled = true
 e1x1x1x1Laugh.TextSize = 14.000
 e1x1x1x1Laugh.TextWrapped = true
 e1x1x1x1Laugh.MouseButton1Down:connect(function()
-	--Made by Servano
+	--Made by lxlc
 
 	local s = Instance.new("Sound")
 
